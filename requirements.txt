@@ -22,5 +22,5 @@ theme-darcula
 matplotlib
 scipy
 numpy
-btjenesten
+xdai
 evince
